@@ -1,8 +1,11 @@
 import axios from "axios";
+import { MOVIEDB_API_KEY } from "react-native-dotenv";
 
 const api = axios.create({ baseURL: "https://api.themoviedb.org/3" });
 
-export const key = "c70894f2d6fca4a9863f576a7a9e0785";
+export const key = MOVIEDB_API_KEY;
+
+console.log(key);
 
 export const searchMovies = async (term) => {
   const response = await api.get("/search/movie", {
