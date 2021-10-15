@@ -1,4 +1,4 @@
-<img src="assets/movie1.jpg" height=600/><img src="assets/movie2.jpg" height=600/><img src="assets/movie3.jpg" height=600/><img src="assets/movie4.jpg" height=600/><img src="assets/movie5.jpg" height=600/>
+<img src="assets/movie1.jpg" /><img src="assets/movie2.jpg" /><img src="assets/movie3.jpg" /><img src="assets/movie4.jpg" /><img src="assets/movie5.jpg" />
 
 # Bem Vindo ao MovieDB React Native App
 
