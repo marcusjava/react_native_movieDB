@@ -4,6 +4,12 @@
 ![movie4](assets/movie4.jpg | height=293)
 ![movie5](assets/movie5.jpg | height=293)
 
+<img src="assets/movie1.jpg" height=193/>
+<img src="assets/movie2.jpg" height=193/>
+<img src="assets/movie3.jpg" height=193/>
+<img src="assets/movie4.jpg" height=193/>
+<img src="assets/movie5.jpg" height=193/>
+
 # Bem Vindo ao MovieDB React Native App
 
 ## Projeto desenvolvido com React Native + Expo
