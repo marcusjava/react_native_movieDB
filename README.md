@@ -22,7 +22,7 @@
 
 - Expo CLI - `npm install --global expo-cli`
 - Instalar dependencias - `expo install`
-- Criar conta no site `https://www.themoviedb.org`
+- Criar conta no site https://www.themoviedb.org
 - Gerar key para acesso a API em https://www.themoviedb.org/settings/api
 - Criar arquivo .env na raiz do projeto com a seguinte variavel `MOVIEDB_API_KEY="KEY GERADA"`
 - Instalar a lib react-native-dotenv - `yarn add react-native-dotenv`
