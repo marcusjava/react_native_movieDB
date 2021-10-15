@@ -4,11 +4,9 @@
 ![movie4](assets/movie4.jpg)
 ![movie5](assets/movie5.jpg)
 
-# Welcome to my Pokedex
+# Bem Vindo ao MovieDB React Native App
 
-## Projeto desenvolvido em React Native + Expo
-
-### https://pokedex666.netlify.app/
+## Projeto desenvolvido com React Native + Expo
 
 ## Tecnologias utilizadas
 
@@ -26,12 +24,12 @@
 2. Instalação
    Pré-requisitos: NodeJS instalado `https://nodejs.org/en/`
 
-- Expo CLI - npm install --global expo-cli
-- Instalar dependencias - expo install
+- Expo CLI - `npm install --global expo-cli`
+- Instalar dependencias - `expo install`
 - Criar conta no site `https://www.themoviedb.org`
 - Gerar key para acesso a API em https://www.themoviedb.org/settings/api
-- Criar arquivo .env na raiz do projeto com a seguinte variavel MOVIEDB_API_KEY="KEY GERADA"
-- Instalar a lib react-native-dotenv - yarn add react-native-dotenv
+- Criar arquivo .env na raiz do projeto com a seguinte variavel `MOVIEDB_API_KEY="KEY GERADA"`
+- Instalar a lib react-native-dotenv - `yarn add react-native-dotenv`
 - Iniciar o projeto com expo start e abrir no emulador de sua preferencia
 
 3. Executar projeto usando expo
