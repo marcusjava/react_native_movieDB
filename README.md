@@ -1,8 +1,8 @@
-![movie1](assets/movie1.jpg)
-![movie2](assets/movie2.jpg)
-![movie3](assets/movie3.jpg)
-![movie4](assets/movie4.jpg)
-![movie5](assets/movie5.jpg)
+![movie1](assets/movie1.jpg=135x293)
+![movie2](assets/movie2.jpg=135x293)
+![movie3](assets/movie3.jpg=135x293)
+![movie4](assets/movie4.jpg=135x293)
+![movie5](assets/movie5.jpg=135x293)
 
 # Bem Vindo ao MovieDB React Native App
 
