@@ -5,8 +5,6 @@ const api = axios.create({ baseURL: "https://api.themoviedb.org/3" });
 
 export const key = MOVIEDB_API_KEY;
 
-console.log(key);
-
 export const searchMovies = async (term) => {
   const response = await api.get("/search/movie", {
     params: {
